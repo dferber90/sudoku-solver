@@ -1,0 +1,18 @@
+{
+  "name": "sudoku-solver",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Dominik Ferber <dominik.ferber+npm@gmail.com> (http://dferber.de/)",
+  "license": "MIT",
+  "dependencies": {
+    "has-duplicates": "^1.0.0",
+    "jest": "^20.0.4",
+    "lodash": "^4.17.4"
+  }
+}
